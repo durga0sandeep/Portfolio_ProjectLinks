@@ -1,8 +1,8 @@
 # Academic Projects — Durga Sandeep Namballa
 
-M.S. in Computer Science, **DigiPen Institute of Technology** (2026) · Specializing in real-time rendering
+M.S. in Computer Science, **DigiPen Institute of Technology** (2026) 
 
-This repository collects my graduate course projects in **computer graphics, animation, game engines, machine learning, and deep learning**. Each section below links to the project's own repository.
+This repository README.md collects my graduate course projects in **computer graphics, animation, game engines, machine learning, and deep learning**. Each section below links to the project's own repository.
 
 [Portfolio](https://durga0sandeep.github.io/) 
 
