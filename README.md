@@ -27,7 +27,7 @@ This repository README.md collects my graduate course projects in **computer gra
 ---
 
 ## Computer Graphics & Game Engines
-
+---
 ### Advanced Computer Graphics
 **C++ · OpenGL · GLSL** · [Repository](#)
 
@@ -38,7 +38,8 @@ A from-scratch 3D rendering pipeline with physically based shading and image-bas
 - Texture mapping, sky dome rendering, normal mapping, and dual-paraboloid environment reflection mapping
 - Two-pass shadow mapping using framebuffer objects (FBOs)
 - HDR image-based lighting (IBL) and irradiance mapping
-
+  
+---
 ### Advanced Real-Time Rendering
 **C++ · OpenGL · GLSL (incl. compute shaders)** · [Repository](#)
 
@@ -50,6 +51,7 @@ A deferred renderer implementing several published real-time rendering technique
 - **Image-based lighting** — microfacet BRDF with precomputed diffuse irradiance maps (multithreaded CPU integration) and Monte Carlo importance-sampled specular reflection (Colbert & Křivánek, GPU Gems 3), followed by tone mapping and linear-to-sRGB output
 - **Ambient occlusion** — Alchemy screen-space ambient obscurance (McGuire et al., HPG 2011) with an edge-aware bilateral filter, applied to ambient lighting only
 
+---
 ### Advanced Animation and Modeling I
 **C++ · OpenGL** · [Repository](#)
 
@@ -60,6 +62,7 @@ Character animation and physics-based motion for real-time applications.
 - Forward and inverse kinematics
 - Rigid-body dynamics, collision response, and physics-based modeling
 
+---
 ### Curves and Surfaces
 **JUCE · Unity** · [Repository](#)
 
@@ -69,12 +72,14 @@ An interactive computational geometry application for exploring parametric curve
 - Real-time curve rendering and visualization
 - Interactive editor with dynamic control-point manipulation, knot vector management, and multiple evaluation methods
 
+---
 ### 2D Game Engine
 **C++ · OpenGL** · 4-member team · [Repository](#)
 
 - Contributed UI systems, debugging tools, and parts of the rendering pipeline for a custom engine
 - Developed and evaluated three gameplay prototypes, then shipped the most viable concept as a fully functional game
 
+---
 ### 3D Game Engine
 **C++ · OpenGL** · 4-member team · Role: Graphics Programmer & Producer · [Repository](#)
 
@@ -82,15 +87,17 @@ An interactive computational geometry application for exploring parametric curve
 - Built gameplay systems on top of engine capabilities and ran playtests to iterate on performance and user experience
 
 ---
+---
 
 ## Machine Learning & Deep Learning
-
+---
 ### Machine Learning 1 — Speech Emotion Recognition
 **Python · NumPy · Seaborn · Matplotlib** · [Repository](#)
 
 - Compared Random Forest and SVM classifiers for 6-class emotion recognition on **CREMA-D (7,442 samples)**
 - Macro-AUC of **0.82 (SVM)** vs. **0.80 (Random Forest)** under class imbalance
 
+---
 ### Machine Learning 2 — Movie Recommender System
 **Python · NumPy · Seaborn · Matplotlib** · Team project · [Repository](#)
 
@@ -98,6 +105,7 @@ An interactive computational geometry application for exploring parametric curve
 - Combined K-means++ clustered KNN, SVD matrix factorization, and knowledge-based filtering
 - Best RMSE: **1.067**
 
+---
 ### Deep Learning — CNN for Image Classification
 **TensorFlow/Keras · Google Colab** · [Repository](#)
 
