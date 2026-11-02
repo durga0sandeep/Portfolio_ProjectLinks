@@ -30,7 +30,7 @@ This repository README.md collects my graduate course projects in **computer gra
 
 ---
 ### Advanced Computer Graphics
-**C++ · OpenGL · GLSL** · [Repository](#)
+**C++ · OpenGL · GLSL** · [Repository](https://github.com/durga0sandeep/Portfolio_ADVANCED-COMPUTER-GRAPHICS-)
 
 A from-scratch 3D rendering pipeline with physically based shading and image-based lighting.
 
@@ -42,7 +42,7 @@ A from-scratch 3D rendering pipeline with physically based shading and image-bas
   
 ---
 ### Advanced Real-Time Rendering
-**C++ · OpenGL · GLSL (incl. compute shaders)** · [Repository](#)
+**C++ · OpenGL · GLSL (incl. compute shaders)** · [Repository](https://github.com/durga0sandeep/Portfolio_ADVANCED-REAL-TIME-RENDERING-)
 
 A deferred renderer implementing several published real-time rendering techniques.
 
@@ -54,7 +54,7 @@ A deferred renderer implementing several published real-time rendering technique
 
 ---
 ### Advanced Animation and Modeling I
-**C++ · OpenGL** · [Repository](#)
+**C++ · OpenGL** · [Repository](https://github.com/durga0sandeep/Portfolio_Animation-and-Modeling-1)
 
 Character animation and physics-based motion for real-time applications.
 
@@ -65,7 +65,7 @@ Character animation and physics-based motion for real-time applications.
 
 ---
 ### Curves and Surfaces
-**JUCE · Unity** · [Repository](#)
+**JUCE · Unity** · [Repository](https://github.com/durga0sandeep/Portfolio_MATH500-Curves-and-Surfaces)
 
 An interactive computational geometry application for exploring parametric curves.
 
@@ -75,14 +75,14 @@ An interactive computational geometry application for exploring parametric curve
 
 ---
 ### 2D Game Engine
-**C++ · OpenGL** · 4-member team · [Repository](#)
+**C++ · OpenGL** · 4-member team · [Repository](https://github.com/durga0sandeep/Portfolio_GameEngine_2D)
 
 - Contributed UI systems, debugging tools, and parts of the rendering pipeline for a custom engine
 - Developed and evaluated three gameplay prototypes, then shipped the most viable concept as a fully functional game
 
 ---
 ### 3D Game Engine
-**C++ · OpenGL** · 4-member team · Role: Graphics Programmer & Producer · [Repository](#)
+**C++ · OpenGL** · 4-member team · Role: Graphics Programmer & Producer · [Repository](https://github.com/durga0sandeep/Portfolio_GameEngine3D_)
 
 - Designed and implemented core engine systems, focusing on rendering and graphics pipeline features
 - Built gameplay systems on top of engine capabilities and ran playtests to iterate on performance and user experience
@@ -92,14 +92,14 @@ An interactive computational geometry application for exploring parametric curve
 ## Machine Learning & Deep Learning
 ---
 ### Machine Learning 1 — Speech Emotion Recognition
-**Python · NumPy · Seaborn · Matplotlib** · [Repository](#)
+**Python · NumPy · Seaborn · Matplotlib** · [Repository](https://github.com/durga0sandeep/Portfolio_ML1-Main-Project)
 
 - Compared Random Forest and SVM classifiers for 6-class emotion recognition on **CREMA-D (7,442 samples)**
 - Macro-AUC of **0.82 (SVM)** vs. **0.80 (Random Forest)** under class imbalance
 
 ---
 ### Machine Learning 2 — Movie Recommender System
-**Python · NumPy · Seaborn · Matplotlib** · Team project · [Repository](#)
+**Python · NumPy · Seaborn · Matplotlib** · Team project · [Repository](https://github.com/durga0sandeep/Portfolio_ML2-Collaborative-Filtering-Assignment)
 
 - Co-developed a hybrid recommender on **MovieLens 100K**
 - Combined K-means++ clustered KNN, SVD matrix factorization, and knowledge-based filtering
@@ -107,14 +107,14 @@ An interactive computational geometry application for exploring parametric curve
 
 ---
 ### Deep Learning — CNN for Image Classification
-**TensorFlow/Keras · Google Colab** · [Repository](#)
+**TensorFlow/Keras · Google Colab** · [Repository](https://github.com/durga0sandeep/Portfolio_DL-Assig-2-CNN)
 
 - Trained CNNs on CIFAR-10, CIFAR-100, and Animal-10, reaching **~78% validation accuracy on CIFAR-10**
 - Applied two-phase transfer learning with MobileNetV2
 - Config-driven experiment pipeline with checkpointing, TensorBoard logging, early stopping, learning-rate scheduling, and class weighting for class imbalance
 
 ### Deep Learning — DQN Vacuum Agent
-**PyTorch** · [Repository](#)
+**PyTorch** · [Repository](https://github.com/durga0sandeep/Portfolio_DL_FinalProject)
 
 - Deep Q-Network built from scratch with experience replay, target networks, and reward shaping
 - Scaled training across grid environments from **5×5 to 15×15**
