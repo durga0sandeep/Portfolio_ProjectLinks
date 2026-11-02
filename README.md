@@ -27,6 +27,7 @@ This repository README.md collects my graduate course projects in **computer gra
 ---
 
 ## Computer Graphics & Game Engines
+
 ---
 ### Advanced Computer Graphics
 **C++ · OpenGL · GLSL** · [Repository](#)
@@ -86,7 +87,6 @@ An interactive computational geometry application for exploring parametric curve
 - Designed and implemented core engine systems, focusing on rendering and graphics pipeline features
 - Built gameplay systems on top of engine capabilities and ran playtests to iterate on performance and user experience
 
----
 ---
 
 ## Machine Learning & Deep Learning
